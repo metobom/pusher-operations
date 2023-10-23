@@ -2431,6 +2431,5 @@
       "securitySchemeName": "NCFXCryptoSecurityScheme1ApiKey",
       "securitySchemeValue": "${NCFXCRYPTOSECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "deploymentId": "07676bc8"
+  ]
 }
