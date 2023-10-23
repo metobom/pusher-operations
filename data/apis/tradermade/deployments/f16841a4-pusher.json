@@ -1096,6 +1096,5 @@
       "securitySchemeName": "TraderMadeSecurityScheme1ApiKey",
       "securitySchemeValue": "${TRADERMADESECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "deploymentId": "f16841a4"
+  ]
 }
