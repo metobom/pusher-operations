@@ -2656,13 +2656,13 @@
     {
       "oisTitle": "NewChangeFX-Forex",
       "securitySchemeName": "NCFXForexSecurityScheme1ApiKey",
-      "securitySchemeValue": "NCFXFOREXSECURITYSCHEME1APIKEY_VALUE"
+      "securitySchemeValue": "${NCFXFOREXSECURITYSCHEME1APIKEY_VALUE}"
     },
     {
       "oisTitle": "NewChangeFX-Crypto",
       "securitySchemeName": "NCFXCryptoSecurityScheme1ApiKey",
-      "securitySchemeValue": "NCFXCRYPTOSECURITYSCHEME1APIKEY_VALUE"
+      "securitySchemeValue": "${NCFXCRYPTOSECURITYSCHEME1APIKEY_VALUE}"
     }
   ],
-  "deploymentId": "5dc278d9"
+  "deploymentId": "e83ca0db"
 }
