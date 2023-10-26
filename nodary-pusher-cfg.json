@@ -2636,6 +2636,5 @@
       "securitySchemeName": "NodarySecurityScheme1ApiKey",
       "securitySchemeValue": "${NODARYSECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231026"
+  ]
 }
