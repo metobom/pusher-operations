@@ -7475,6 +7475,5 @@
       "securitySchemeName": "FinageSecurityScheme1ApiKey",
       "securitySchemeValue": "${FINAGESECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231025"
+  ]
 }
