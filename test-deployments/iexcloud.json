@@ -20650,6 +20650,5 @@
       "securitySchemeName": "IEXCloudv2SecurityScheme1ApiKey",
       "securitySchemeValue": "${IEXCLOUDV2SECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231025"
+  ]
 }
