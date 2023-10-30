@@ -3306,6 +3306,5 @@
       "securitySchemeName": "CoinpaprikaSecurityScheme2ApiKey",
       "securitySchemeValue": "${COINPAPRIKASECURITYSCHEME2APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231025"
+  ]
 }
