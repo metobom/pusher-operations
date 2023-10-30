@@ -2119,6 +2119,5 @@
       "securitySchemeName": "DxFeedapi3SecurityScheme1ApiKey",
       "securitySchemeValue": "${DXFEEDAPI3SECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231025"
+  ]
 }
