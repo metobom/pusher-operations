@@ -1721,6 +1721,5 @@
       "securitySchemeName": "NCFXCryptoSecurityScheme1ApiKey",
       "securitySchemeValue": "${NCFXCRYPTOSECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231025"
+  ]
 }
