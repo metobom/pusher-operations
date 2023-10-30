@@ -5680,6 +5680,5 @@
       "securitySchemeName": "KaikoSecurityScheme1ApiKey",
       "securitySchemeValue": "${KAIKOSECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231025"
+  ]
 }
