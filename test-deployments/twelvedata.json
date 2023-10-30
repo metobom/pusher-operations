@@ -7695,6 +7695,5 @@
       "securitySchemeName": "TwelvedataSecurityScheme1ApiKey",
       "securitySchemeValue": "${TWELVEDATASECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231025"
+  ]
 }
