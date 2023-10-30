@@ -5392,6 +5392,5 @@
       "securitySchemeName": "FinnhubSecurityScheme1ApiKey",
       "securitySchemeValue": "${FINNHUBSECURITYSCHEME1APIKEY_VALUE}"
     }
-  ],
-  "stage": "api3-20231025"
+  ]
 }
