@@ -1,14 +1,18 @@
 {
-  "airnodeWalletMnemonic": "${WALLET_MNEMONIC}",
-  "rateLimiting": {
-    "NewChangeFX-Forex": {
-      "maxConcurrency": 25,
-      "minTime": 450
+  "nodeSettings": {
+    "nodeVersion": "0.1.0", 
+    "airnodeWalletMnemonic": "${WALLET_MNEMONIC}",
+    "rateLimiting": {
+      "NewChangeFX-Forex": {
+        "maxConcurrency": 25,
+        "minTime": 450
+      },
+      "NewChangeFX-Crypto": {
+        "maxConcurrency": 25,
+        "minTime": 10
+      }
     },
-    "NewChangeFX-Crypto": {
-      "maxConcurrency": 25,
-      "minTime": 10
-    }
+    "stage": "local-example"
   },
   "templates": {
     "0xc49893b33d67f4291dde8a044c908906feac9ba26ec57d60d7c017d2991b79ef": {
