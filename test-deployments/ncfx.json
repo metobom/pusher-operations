@@ -2,7 +2,7 @@
   "airnodeWalletMnemonic": "${WALLET_MNEMONIC}",
   "rateLimiting": {
     "NewChangeFX-Forex": {
-      "maxConcurrency": 25,
+      "maxConcurrency": 12,
       "minTime": 10
     },
     "NewChangeFX-Crypto": {
