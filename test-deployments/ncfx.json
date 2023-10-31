@@ -3,7 +3,7 @@
   "rateLimiting": {
     "NewChangeFX-Forex": {
       "maxConcurrency": 12,
-      "minTime": 250
+      "minTime": 350
     },
     "NewChangeFX-Crypto": {
       "maxConcurrency": 25,
