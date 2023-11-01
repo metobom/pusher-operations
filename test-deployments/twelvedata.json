@@ -1,10 +1,8 @@
 {
-  "airnodeWalletMnemonic": "${WALLET_MNEMONIC}",
-  "rateLimiting": {
-    "TwelveData": {
-      "maxConcurrency": 25,
-      "minTime": 10
-    }
+  "nodeSettings": {
+    "nodeVersion": "0.1.0", 
+    "airnodeWalletMnemonic": "${WALLET_MNEMONIC}",
+    "stage": "twelvedata-test"
   },
   "templates": {
     "0x04200606c1a69f4292011d641e6aa8a08ad40a6a1a36c574e4169ae640f09e3f": {
