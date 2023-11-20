@@ -2,7 +2,7 @@
   "nodeSettings": {
     "airnodeWalletMnemonic": "${WALLET_MNEMONIC}",
     "nodeVersion": "0.1.0",
-    "stage": "aws2"
+    "stage": "${STAGE}"
   },
   "templates": {
     "0xc49893b33d67f4291dde8a044c908906feac9ba26ec57d60d7c017d2991b79ef": {
@@ -1512,7 +1512,7 @@
                 "in": "path",
                 "name": "route"
               },
-              "required": false
+              "required": true
             }
           ],
           "reservedParameters": [
