@@ -1,0 +1,18 @@
+{
+  "endpoints": [
+    {
+      "urlPath": "/real-time",
+      "delaySeconds": 0
+    },
+    {
+      "urlPath": "/delayed",
+      "delaySeconds": 15
+    }
+  ],
+  "allowedAirnodes": ["0x3aBC7C59D1d1833cD5973Ce417948523Ba3202D9"],
+  "maxBatchSize": 10,
+  "port": 8090,
+  "cache": {
+    "maxAgeSeconds": 300
+  }
+}
