@@ -10,7 +10,7 @@
     }
   ],
   "allowedAirnodes": "*",
-  "maxBatchSize": 10,
+  "maxBatchSize": 200,
   "port": 80,
   "cache": {
     "maxAgeSeconds": 300
