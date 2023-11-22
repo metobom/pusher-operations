@@ -9,9 +9,9 @@
       "delaySeconds": 15
     }
   ],
-  "allowedAirnodes": ["0x3aBC7C59D1d1833cD5973Ce417948523Ba3202D9"],
+  "allowedAirnodes": "*",
   "maxBatchSize": 10,
-  "port": 8090,
+  "port": 80,
   "cache": {
     "maxAgeSeconds": 300
   }
