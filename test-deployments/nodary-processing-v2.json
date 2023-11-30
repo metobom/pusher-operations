@@ -2683,7 +2683,7 @@
   "signedApis": [
     {
       "name": "Nodary",
-      "url": "https://pool.nodary.io"
+      "url": "http://signed-api-elb-1361842523.us-east-1.elb.amazonaws.com"
     }
   ],
   "ois": [
